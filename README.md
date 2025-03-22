@@ -1,1 +1,1 @@
-# DevicePred
+# DiseasePrediction
